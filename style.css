@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid #home-logo-1 img{
+    width: 261px;
+}
+
+.navbar-expand-lg{
+    padding: 0;
+}
+.container-fluid #home-logo-1 .text-danger{
+    width: 11px;
+    height: 11px;
+    margin-right: 6px;
+    margin-bottom: 9px;
+
+}
+
+.container-fluid #home-logo-1{
+    align-items: center;
+    /* align-content: center; */
+    display: flex;
+    justify-content: space-between;
+}
