@@ -205,11 +205,11 @@ section{
 p{
     font-family: 'Poppins', sans-serif;
 }
-.youtube-shadow{
+/* .youtube-shadow{
     box-shadow: 1px 0px 165px 5px rgba(13,110,253,0.66);
     -webkit-box-shadow: 1px 0px 165px 5px rgba(13,110,253,0.66);
     -moz-box-shadow: 1px 0px 165px 5px rgba(13,110,253,0.66);
-}
+} */
 
 .site-footer
 {
@@ -381,11 +381,6 @@ p{
 
 
 
-
-
-
-
-
 @media only screen and (max-width: 600px){
     .content-box{
         display:block;
@@ -415,4 +410,34 @@ body{
 }
 
 }
+
+
+
+.text-primary{
+
+  width: 11px;
+  height: 11px;
+
+}
+
+.belowarrow {
+  display: flex;
+  align-items: center;
+  font-size: large;
+  float: right;
+  width:286px;
+}
+
+.belowarrow a{
+  font-size: 24px;
+}
+
+ iframe{
+  box-shadow: 1px 0px 165px 5px rgba(13,110,253,0.66);
+  -webkit-box-shadow: 1px 0px 165px 5px rgba(13,110,253,0.66);
+  -moz-box-shadow: 1px 0px 165px 5px rgba(13,110,253,0.66);
+}
+
+
+
 
